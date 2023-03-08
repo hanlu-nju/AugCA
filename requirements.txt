@@ -1,0 +1,8 @@
+attrs==21.2.0
+lightly==1.2.35
+matplotlib==3.4.2
+numpy==1.22.4
+pytorch_lightning==1.6.3
+torch==1.8.1
+torchvision==0.9.1
+tqdm==4.61.0
